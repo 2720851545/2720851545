@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 29 Contributions in year 2020
+> 🏆 29 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 38 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    14 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
@@ -22,7 +22,7 @@
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       14 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
@@ -36,19 +36,19 @@ Sunday       12 commits     ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
+⌚︎ Time zone: Asia/Shanghai
 
-💬 Languages: 
+💬 Programming Languages: 
 Java                     12 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   43.05% 
 HTML                     7 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   27.34% 
 XML                      6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   23.17% 
 Bash                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
 YAML                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
 
-🔥 Editors: 
+🔥 Code Editors: 
 IntelliJ                 28 hrs 26 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
@@ -60,7 +60,7 @@ mcmp                     27 mins             ░░░░░░░░░░░�
 
 ```
 
-**I mostly code in Java** 
+**I Mostly Code in Java** 
 
 ```text
 Java                     3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
